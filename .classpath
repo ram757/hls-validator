@@ -7,9 +7,9 @@
 	<classpathentry excluding="conf/" kind="src" path="src/main/resources"/>
 	<classpathentry kind="src" path="src/test/resources"/>
 	<classpathentry kind="src" path="src/main/resources/conf"/>
-	<classpathentry kind="lib" path="E:/_Software/logger/apache-log4j-2.8.2-bin/log4j-api-2.8.2.jar"/>
-	<classpathentry kind="lib" path="E:/_Software/logger/apache-log4j-2.8.2-bin/log4j-core-2.8.2.jar"/>
-	<classpathentry kind="lib" path="E:/_Software/jmockit/jmockit.jar"/>
+	<classpathentry kind="lib" path="external/logger/log4j-api-2.8.2.jar"/>
+	<classpathentry kind="lib" path="external/logger/log4j-core-2.8.2.jar"/>
+	<classpathentry kind="lib" path="dead_link"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
